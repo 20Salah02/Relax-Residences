@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Kloof Street Hotel</title>
+    <description>Kloof Street Hotel Blog Posts</description>
+    <link>https://www.kloofstreethotel.com/blog</link>
+    <atom:link href="https://www.kloofstreethotel.com/blog/feed.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Take a Walk from Kloof Street Hotel: 10 Things to See on Foot</title>
+      <description>&lt;p&gt;Lace up your walking shoes and explore the many interesting landmarks that surround our hotel on foot.&lt;/p&gt;</description>
+      <pubDate>Thu, 03 Oct 2024 06:57:00 +0000</pubDate>
+      <link>https://www.kloofstreethotel.com/blog/posts/take-a-walk-from-kloof-street-hotel-10-things-to-see-on-foot</link>
+      <guid>https://www.kloofstreethotel.com/blog/posts/take-a-walk-from-kloof-street-hotel-10-things-to-see-on-foot</guid>
+    </item>
+  </channel>
+</rss>
