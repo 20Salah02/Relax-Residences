@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Hôtel</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="chat.css">
+</head>
+<body>
+    <!-- Chatbot Icon -->
+    <div id="chatbot-icon" onclick="toggleChat()">
+        <i class="fa-solid fa-robot"></i>
+    </div>
+
+    <!-- Chat Window -->
+    <div id="chat-window" class="hidden">
+        <div id="chat-header">
+            <div id="bot-profile">
+                <i class="fa-solid fa-robot"></i>
+            </div>
+            <span>Relax Residence</span>
+            <button id="close-chat" onclick="toggleChat()">×</button>
+        </div>
+        <div id="chat-body">
+            <div id="chat-messages">
+                <!-- Chat messages will appear here -->
+            </div>
+            <div id="chat-options">
+                <!-- Options will be dynamically populated here -->
+            </div>
+            <div id="chat-typing" class="hidden">
+                <div class="typing-dots"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
